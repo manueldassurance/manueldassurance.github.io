@@ -11724,7 +11724,7 @@ pre code {
 .personal-picture > img {
   width: 180px;
   height: auto;
-  margin-left: 0px;
+  margin-left: -6px;
   margin-top: 0px; }
 
 .post-meta {
